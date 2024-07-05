@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MeiNaroaReto</string>
+    <string name="navigation_drawer_open">Reto Final Lanbide</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Reto Final Lanbide</string>
+    <string name="nav_header_subtitle">Mei Torres y Naroa Gándara</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Mapa</string>
+    <string name="menu_slideshow">Galería</string>
+    <string name="cursos">Cursos:</string>
+    <string name="Mapa">Galería\n</string>
+    <string name="galeria">Galería\n</string>
+    <string name="mapa">Mapa</string>
+    <string name="galeria2">Galería\n</string>
+    <string name="galeria3">Galería</string>
+    <string name="mapa2">Mapa</string>
+    <string name="inicio">Inicio</string>
+    <string name="foto">foto</string>
+    <string name="hola">Hola</string>
+    <string name="texto">Texto</string>
+    <string name="Texto">Texto</string>
+</resources>
